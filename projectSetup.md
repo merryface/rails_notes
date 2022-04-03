@@ -2,7 +2,7 @@
 
 This is how to create an MVC Rails app and deploy it on Heroku following the Odin Project's [Rails set up guide](https://www.theodinproject.com/lessons/ruby-on-rails-installing-rails)
 <br>
-[← Back to Contents Menu](projectSetup.md)
+[← Back to Contents Menu](readme.md)
 <br>
 <br>
 
