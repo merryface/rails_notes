@@ -1,5 +1,8 @@
 # Setting up and Deploying New Rails Project with Postgres
-This project was created following the Odin Project's [Rails set up guide](https://www.theodinproject.com/lessons/ruby-on-rails-installing-rails)
+
+This is how to create an MVC Rails app and deploy it on Heroku following the Odin Project's [Rails set up guide](https://www.theodinproject.com/lessons/ruby-on-rails-installing-rails)
+<br>
+[← Back to Contents Menu](projectSetup.md)
 <br>
 <br>
 
